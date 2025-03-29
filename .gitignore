@@ -1,0 +1,15 @@
+.venv/
+venv/
+.env
+logs/
+.DS_Store
+edr_target/
+edr.log
+.local
+local/
+
+.vscode/
+.idea/
+*.iml
+*.ipynb_checkpoints/
+.python-version
